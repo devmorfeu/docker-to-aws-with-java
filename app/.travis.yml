@@ -4,7 +4,7 @@ jdk:
 before_install:
   - sudo apt-get update
   - cd app/
-  - echo "Let's start Maven Package!"
+  - echo "Let's start Maven Package clean!"
   - mvn clean package
   - cd ..
   - echo "We are in the Docker folder!"
