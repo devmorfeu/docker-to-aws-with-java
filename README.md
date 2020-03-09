@@ -3,21 +3,21 @@ Projeto Spring com intuito de treinamento utilizando as ultimas tecnologias de p
 
 Ferramentas ultilizadas na construção da api:
 
-#Spring-boot
-#Spring-JPA
-#Spring-hateoas
-#Dozer-mapper
-#Swagger
-#Spring-security
-#JWT
-#Junit
+# Spring-boot
+# Spring-JPA
+# Spring-hateoas
+# Dozer-mapper
+# Swagger
+# Spring-security
+# JWT
+# Junit
 
 Banco de dados
-#MYSQL
+# MYSQL
 
 Ferramentas ultilizadas para deploy
-#Docker
-#Travis.CI
-#AWS
+# Docker
+# Travis.CI
+# AWS
 
 [![Build Status](https://travis-ci.org/bacoexudoblues/docker-to-aws-with-java.svg?branch=master)](https://travis-ci.org/bacoexudoblues/docker-to-aws-with-java)
